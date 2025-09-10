@@ -1,7 +1,7 @@
 import React from "react"
 
 const ThemeContext = React.createContext({
-    light:""
+    theme:"light"
 });
 
 export default ThemeContext;
